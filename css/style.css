@@ -1,0 +1,173 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-size: 14px;
+}
+
+
+.container {
+	width: 100%;	
+	margin-right: 20%;
+
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+
+}
+
+.menu {
+	margin-top: 30px;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	padding-right: 20px;
+}
+
+.menu li {
+	list-style: none;
+	margin-right: 10px;
+}
+
+.menu li a {
+	text-decoration: none;
+}
+
+.button {
+	padding: 10px 20px;
+	border: none;	
+	cursor: pointer;
+}
+
+.btn-blue {
+	background-color: blue;
+	color: white;
+	border-radius: 5px;
+}
+
+.center {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+	padding-top: 200px;
+}
+
+.google-logo {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 30px;
+}
+
+.form-google {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.google-img {
+	display: block;
+	margin-bottom: 20px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.search {
+	position: relative;
+}
+
+.search-icon {
+	position: absolute;
+	top: 15px;
+	left: 15px;
+	z-index: 1;
+}
+
+.search-keyb {
+	position: absolute;
+	top: 15px;
+	right: 15px;
+	z-index: 1;
+
+}
+
+.google-input {
+	display: block;
+	width: 550px;
+	padding: 15px 50px;
+	outline: none;
+	border: 1px solid #ccc;
+	border-radius: 100px;
+	margin-bottom: 20px;
+	position: relative;
+	outline: none;
+}
+
+.google-input::hover {
+
+}
+.btn {
+	background-color: #f8f9fa;
+	color: #202124;
+	font-size: 14px;
+	padding: 10px 20px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.buttons {
+	margin-bottom: 20px;
+}
+
+.lang {
+	text-decoration: none;
+}
+
+.footer {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	width: 100%;
+	color: #202124;
+	
+	position: fixed;
+	bottom: 0;
+	padding-bottom: 20px;
+	background-color: #f2f2f2;
+	padding: 10px 20px 30px;
+}
+.footer-menu {
+	display: flex;	
+	justify-content: space-between;	
+	align-items: center;
+	margin-top: 15px;
+	border-top: 1px solid #ccc;
+	padding-top: 10px;
+}
+
+.footer-menu__left, .footer-menu__right {
+	display: flex;
+}
+
+.footer-menu__left li {
+
+
+	margin-right: 10px;
+	list-style: none;
+}
+.footer-menu__right li {	
+	
+	margin-right: 10px;
+	list-style: none;
+}
+
+.footer-menu__left li a{ 	
+	text-decoration: none;
+	color: #202124;
+}
+
+.footer-menu__right li a{ 	
+	text-decoration: none;
+	color: #202124;
+}

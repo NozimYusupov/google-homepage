@@ -1,0 +1,467 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bx",
+				"box-sizing"
+			],
+			[
+				"wr",
+				"write"
+			],
+			[
+				"F",
+				"File"
+			],
+			[
+				"take_",
+				"take_a_ride"
+			],
+			[
+				"Al",
+				"Albuquerque"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"ac",
+				"actions"
+			],
+			[
+				"attr",
+				"attr_accessor"
+			],
+			[
+				"s",
+				"song1"
+			],
+			[
+				"so",
+				"song4"
+			],
+			[
+				"sa",
+				"say_hi"
+			],
+			[
+				"sub",
+				"sub_5"
+			],
+			[
+				"add_",
+				"add_10"
+			],
+			[
+				"add",
+				"add_10"
+			],
+			[
+				"a",
+				"airport1"
+			],
+			[
+				"co",
+				"country2"
+			],
+			[
+				"ai",
+				"airports"
+			],
+			[
+				"m",
+				"model"
+			],
+			[
+				"pl",
+				"plane"
+			],
+			[
+				"p",
+				"plane"
+			],
+			[
+				"att",
+				"attr_accessor"
+			],
+			[
+				"aor",
+				"airport1"
+			],
+			[
+				"def",
+				"defi"
+			],
+			[
+				"cla",
+				"cla"
+			],
+			[
+				"fl",
+				"fly"
+			],
+			[
+				"pal",
+				"plane"
+			],
+			[
+				"pla",
+				"planes"
+			],
+			[
+				"Bie",
+				"Boeing-777"
+			],
+			[
+				"l",
+				"land"
+			],
+			[
+				"sho",
+				"show_last"
+			],
+			[
+				"bo",
+				"book"
+			],
+			[
+				"b",
+				"book2"
+			],
+			[
+				"boo",
+				"book1"
+			],
+			[
+				"opt",
+				"options"
+			],
+			[
+				"pri",
+				"print_details"
+			],
+			[
+				"Pere",
+				"perevods"
+			],
+			[
+				"per",
+				"perevods"
+			],
+			[
+				"ph",
+				"phonebook"
+			],
+			[
+				"r",
+				"rock"
+			],
+			[
+				"Comp",
+				"computer_choice"
+			],
+			[
+				"c",
+				"computer_choice"
+			],
+			[
+				"els",
+				"elsif"
+			],
+			[
+				"e",
+				"elsif"
+			],
+			[
+				"pr",
+				"print_attendees"
+			],
+			[
+				"to",
+				"to_i"
+			],
+			[
+				"t",
+				"to_f"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"iser",
+				"insertBefore"
+			],
+			[
+				"getE",
+				"getElementsByClassName"
+			],
+			[
+				"cl",
+				"cla"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lessson17/task.txt",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lessson17/task.rb",
+		"/home/captain/.config/sublime-text/Packages/JavaScript Completions/Default (Linux).sublime-keymap",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lessson17/filedemo.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lessson17/test.txt",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lessson17/method_missing3.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lessson17/send_demo7.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lessson17/define_method2.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lessson17/define_method.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lessson17/method_missing2.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lessson17/method_missing.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lessson17/senddemo6.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lessson17/senddemo4_2.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lessson17/senddemo.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lesson16/vardemo.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lesson16/bb.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lesson16/module_demo.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lesson16/aa.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lesson16/lambda_demo.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lesson16/lambda_demo2.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lesson16/lambra.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lesson16/yield_demo.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lesson16/badit.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lesson16/static_self.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lesson 16/i_demo.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lesson15/animals.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lesson15/album.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lesson15/airport.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/lesson15/classdemo.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/10/classdemo2.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/10/classBook.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/10/classdemo.rb",
+		"/home/captain/.config/sublime-text/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/9/showbook.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/9/defined.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/9/def_hash.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/8/defined.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/9/app1.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/8/dictionary.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/8/hashdemo.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/8/phonebook.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/8/app5.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/7/app7.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/7/app6.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/7/app5.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/7/app4.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/7/app3.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/7/app1.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/7/app2.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/6/arrdemo.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/6/app6_symbol.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/6/app5.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/6/app4.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/6/app3.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/6/app2.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/6/app1.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/5/app3.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/5/app2.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/5/ifdemo.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/5/app1.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/4/app4.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/2/app1.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/2/app2.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/1/app2.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/1/app1.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/1/app3.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/bak/1/app4.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/Projects/App1/app6.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/app6.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/app4.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/app3.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/app2.rb",
+		"/home/captain/Developers/Ruby/Roman Pushkin/app1.rb",
+		"/home/captain/Developers/Ruby/app2.rb",
+		"/home/captain/Developers/Ruby/app1.rb",
+		"/home/captain/Developers/Web/a.scss",
+		"/home/captain/Developers/Web/index.html",
+		"/home/captain/Developers/Web/style.css",
+		"/home/captain/Developers/Web/a.js",
+		"/home/captain/style.css",
+		"/home/captain/Developers/Web/a.rb"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
